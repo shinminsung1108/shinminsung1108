@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=MinSung!&color=random&height=400&width=700)
+![header](https://capsule-render.vercel.app/api?text=MinSung!&color=random&height=300&desc=CodingRoom)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shinminsung1108&show_icons=true)
 
